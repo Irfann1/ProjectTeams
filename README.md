@@ -47,9 +47,9 @@ Given the varying expertise and interests, I'd like you to outline what team mem
 4. 
 
 ## Propose 3 Meeting Times
-Thursday 6pm
-Friday 4pm
-Wednesday 4pm *Would prefer not to meet at this time, but could.
+1. Thursday 6pm
+2. Friday 4pm
+3. Wednesday 4pm *Would prefer not to meet at this time, but could.
 
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
 
