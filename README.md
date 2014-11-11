@@ -15,14 +15,15 @@ Project Outline
 --> 200 Total
 
 ## Team Members
-* Person 
-* Person
-* Person
-* Person
-* Person
+* Michael Aaron
+* Logan Bates
+* Sam Korn
+* Peyman Mortazavi
+* Irfan Nadiadi
+* Ryan Roden
 
 ## GitHub Repo 
-[As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
+https://github.com/LoganBates/TeamKickass
 
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
@@ -30,9 +31,9 @@ Project Outline
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
 
-1. List
-2. of
-3. needed 
+1. Raspberry Pi
+2. Microphone(s)
+3. RGB LED's for Visualization - Need to discuss further 
 4. Hardware
 
 ## Roles
