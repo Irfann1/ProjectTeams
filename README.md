@@ -27,12 +27,11 @@ https://github.com/LoganBates/TeamKickass
 
 ## Project Sketch
 A Raspberry Pi is setup with a microphone (or multiple microphones) to record sound samples in key locations of the Atlas Lobby.
-
-[Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
+It will have to be determined what interval sound samples are collected at such that it is not infringing on people's privacy.
+The Raspberry Pi will either be loaded with local speech-to-text processing software or will offload the sound sample to an online API. The response from the software or API will be parsed to separate words, which will be uploaded to a database. The database will add new words or increase the count on existing words. The data can then be used to produce a visualization, such as a word cloud. If the data and visualization is kept online, a TV could be setup to display a webpage with the visualization, which is dynamically updated as new sound samples are processed.
+It would be ideal if specific words are removed before being added to the database, such as articles and pronouns, leaving more interesting words for the visualization.
 
 ## Hardware
-[This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
-
 1. Raspberry Pi
 2. Microphone(s)
 3. RGB LED's for Visualization - Need to discuss further 
