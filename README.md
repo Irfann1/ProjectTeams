@@ -26,6 +26,8 @@ Project Outline
 https://github.com/LoganBates/TeamKickass
 
 ## Project Sketch
+A Raspberry Pi is setup with a microphone (or multiple microphones) to record sound samples in key locations of the Atlas Lobby.
+
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
 
 ## Hardware
@@ -48,9 +50,7 @@ Given the varying expertise and interests, I'd like you to outline what team mem
 4. 
 
 ## Propose 3 Meeting Times
-1. Thursday 6pm
-2. Friday 4pm
-3. Wednesday 4pm *Would prefer not to meet at this time, but could.
+1. Thursday 6 - 6:30pm
 
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
 
