@@ -17,7 +17,7 @@ Project Outline
 ## Team Members
 * Michael Aaron 605-651-0729, michael.aaron@colorado.edu
 * Logan Bates 719-238-2118, logan.bates@colorado.edu
-* Sam Korn 720-333-4371, sam.korn@colorado.edu
+* Sam Korn 720-333-4371, samuel.korn@colorado.edu
 * Peyman Mortazavi 571-263-4240, peyman.mortazavi@colorado.edu
 * Irfan Nadiadi 720-253-8894, irfan.nadiadi@colorado.edu
 * Ryan Roden 214-957-5798, ryan.roden@colorado.edu
